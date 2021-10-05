@@ -1,10 +1,2 @@
 greeting: "Welcome to spring cloud demo 1"
 
-spring:
-  application:
-    name: config-server
-  cloud:
-    config:
-      server:
-        git:
-          uri: file://C:/SpringConfigServer/ConfigRepo
