@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: file://C:/SpringConfigServer/ConfigRepo
+          uri: https://github.com/spring-cloud-samples/config-repo
